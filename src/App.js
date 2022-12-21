@@ -1,7 +1,7 @@
 import Header from "./components/Header";
 import EpisodeCard from "./components/EpisodeCard";
 import Footer from "./components/Footer";
-
+import "./App.css";
 
 function App() {
   
